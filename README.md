@@ -55,25 +55,49 @@ Both environments include:
 ===================
 
 <pre class="overflow-visible!" data-start="1910" data-end="2115"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre!"><span><span>
-MultienvApp/
-│── docker-compose.yml
-│── backend/
-│   ├── dev/
+multienv_deployment_DEEPIKA_NARENDRAN/
+├── backend
+│   ├── dev
 │   │   ├── app.py
 │   │   ├── Dockerfile
 │   │   ├── requirements.txt
-│   │   └── .env (NOT committed)
-│   └── prod/
+│   │   └── templates
+│   │       └── index.html
+│   └── prod
 │       ├── app.py
 │       ├── Dockerfile
 │       ├── requirements.txt
-│       └── .env (NOT committed)
-│
-└── frontend/
-    ├── Dockerfile
-    ├── public/
-    ├── src/
-    └── package.json
+│       └── templates
+│           └── index.html
+├── docker-compose.yml
+├── frontend
+│   ├── Dockerfile
+│   ├── package.json
+│   ├── public
+│   │   ├── favicon.ico
+│   │   ├── index.html
+│   │   ├── logo192.png
+│   │   ├── logo512.png
+│   │   ├── manifest.json
+│   │   └── robots.txt
+│   ├── README.md
+│   └── src
+│       ├── App.css
+│       ├── App.js
+│       ├── App.test.js
+│       ├── index.css
+│       ├── index.js
+│       ├── logo.svg
+│       ├── pages
+│       │   ├── Home.css
+│       │   ├── Home.js
+│       │   ├── Tickets.css
+│       │   └── Tickets.js
+│       └── setupTests.js
+├── LICENSE
+├── README.md
+└── submission
+    └── submission-info.txt
 </span></span></code></div></div></pre>
 
 ---
@@ -136,6 +160,9 @@ Go to **Network Access** → Add IP:
 ### For development:
 
 `0.0.0.0/0   (Allow all)`
+
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/daad5bf3-031f-4af0-a597-9195ad08e7fd" />
+
 
 ### Or more secure:
 
@@ -361,23 +388,29 @@ Or:
 | API Communication | ✅ working | Frontend → Backends → Mongo               |
 | Data Persistence  | ✅ working | add/complete/delete todos                   |
 
+---
 
-<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/b58185e4-d236-4d65-b91b-1082a02f721e" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/467b4ed5-aaef-45f8-9e14-f3385674449c" />
 
-<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/b4ac1bf3-f63c-4fa6-a782-00ea9aef4667" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/58fd8384-ac7f-463d-a290-891873d11634" />
 
-<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/4ad2ab50-352b-4346-937d-0b3243a0abb8" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/e8689221-c9c3-4502-8649-02a3c7f6e799" />
 
-<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/525153c0-5550-4e08-9dc0-ce68fdb7a7d4" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/8b84244c-75c0-4258-a82e-1ed87cfd7edf" />
 
+---
 
 <img width="1366" height="738" alt="Screenshot from 2025-11-15 22-01-55" src="https://github.com/user-attachments/assets/1291b717-7e94-4133-ba4f-a9d3d10c198b" />
 
-A fully functioning multi-environment Dockerized application backed by MongoDB Atlas, with professional-grade documentation and troubleshooting.
+---
 
 <img width="1366" height="699" alt="Screenshot from 2025-11-15 22-28-15" src="https://github.com/user-attachments/assets/9b8553a8-14ab-49d7-b0cd-7d8f33d4b310" />
 
 ---
+
+A fully functioning multi-environment Dockerized application backed by MongoDB Atlas, with professional-grade documentation and troubleshooting.
+
+* * * * *
 
 📌 Author
 ---------
