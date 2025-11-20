@@ -179,9 +179,9 @@ backend/prod/.env
 
 `FLASK_DEBUG=0 PORT=3002 MONGO_URI="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/multienv_prod?retryWrites=true&w=majority&appName=MultiEnvApp"`
 
-<img width="1366" height="699" alt="Screenshot from 2025-11-15 22-11-22" src="https://github.com/user-attachments/assets/99b4cdf3-06b7-4777-9132-ad6dbe0b26eb" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/ae315186-d9ef-4e8a-af36-c8925c1d1da3" />
 
-<img width="1366" height="699" alt="Screenshot from 2025-11-15 22-11-34" src="https://github.com/user-attachments/assets/fe4dc416-1c80-4910-9617-660a05433ff3" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/daa73086-211f-41b2-a00c-26be3d53f30a" />
 
 ---
 
@@ -361,15 +361,15 @@ Or:
 | API Communication | ✅ working | Frontend → Backends → Mongo               |
 | Data Persistence  | ✅ working | add/complete/delete todos                   |
 
-<img width="1364" height="486" alt="Screenshot from 2025-11-14 01-08-15" src="https://github.com/user-attachments/assets/3268c2a1-5862-45fb-86d9-dbfc29c00ac3" />
 
-<img width="1364" height="486" alt="Screenshot from 2025-11-14 01-08-55" src="https://github.com/user-attachments/assets/b1b05939-6247-4f03-8ff4-1e8be43d2f6b" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/b58185e4-d236-4d65-b91b-1082a02f721e" />
 
-<img width="1364" height="486" alt="Screenshot from 2025-11-14 01-09-12" src="https://github.com/user-attachments/assets/36cb1a4a-a39d-44c1-94fe-3e5872443595" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/b4ac1bf3-f63c-4fa6-a782-00ea9aef4667" />
 
-<img width="1364" height="486" alt="Screenshot from 2025-11-14 01-09-33" src="https://github.com/user-attachments/assets/5fbe30e6-ff74-43e5-a99a-fa6e95d90a27" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/4ad2ab50-352b-4346-937d-0b3243a0abb8" />
 
-<img width="1364" height="486" alt="Screenshot from 2025-11-14 01-09-47" src="https://github.com/user-attachments/assets/bc77a633-2fd9-4f0b-a47e-3a12de716874" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/525153c0-5550-4e08-9dc0-ce68fdb7a7d4" />
+
 
 <img width="1366" height="738" alt="Screenshot from 2025-11-15 22-01-55" src="https://github.com/user-attachments/assets/1291b717-7e94-4133-ba4f-a9d3d10c198b" />
 
