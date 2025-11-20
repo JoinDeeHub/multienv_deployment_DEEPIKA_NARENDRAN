@@ -408,6 +408,36 @@ Or:
 
 ---
 
+**Deploying to Docker Hub (Recommended Method)**
+================================================
+
+To deploy images professionally, use:
+
+**✔ 1. Build images**
+---------------------
+
+
+**✔ 2. Tag images**
+-------------------
+
+
+**✔ 3. Push to Docker Hub**
+---------------------------
+
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/d41f8d12-8a8d-448f-93a3-96c191bc9b8d" />
+
+---
+
+<img width="1366" height="523" alt="image" src="https://github.com/user-attachments/assets/d5a7363b-102a-4d47-adce-ce545888575d" />
+
+<img width="1366" height="683" alt="image" src="https://github.com/user-attachments/assets/e2de0b68-aee4-4ce8-8f23-d4342038fe6e" />
+
+---
+
+<img width="1366" height="523" alt="image" src="https://github.com/user-attachments/assets/d407dcdc-16c8-4f7a-9c20-52e47c26d105" />
+
+---
+
 A fully functioning multi-environment Dockerized application backed by MongoDB Atlas, with professional-grade documentation and troubleshooting.
 
 * * * * *
